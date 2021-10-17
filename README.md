@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there,
+
+I'm a Vue.JS developer working for [Toolio.](https://www.toolio.com/).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozd&count_private=true)
 
