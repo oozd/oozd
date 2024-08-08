@@ -1,3 +1,3 @@
 ### Hi there,
 
-I'm a Vue.JS developer working for [Toolio.](https://www.toolio.com/).
+I'm a full stack developer working for [Toolio.](https://www.toolio.com/).
