@@ -2,8 +2,8 @@
 
 I'm a full stack developer working for [Toolio.](https://www.toolio.com/).
 
-<h3 align="left">[My Web Page](https://oozd.github.io/).</h3>
-<h3 align="left">[Connect with me](https://www.linkedin.com/in/onurozdemir23/).</h3>
+[My Web Page](https://oozd.github.io/)
+[Connect with me](https://www.linkedin.com/in/onurozdemir23/)
 
 <h3 align="left">Stats:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
